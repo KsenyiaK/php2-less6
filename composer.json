@@ -1,0 +1,12 @@
+{
+    "name": "user/hometask-6",
+    "authors": [
+        {
+            "name": "Ksenia Ksenia",
+            "email": "ksenia@mail.com"
+        }
+    ],
+    "require": {
+      "twig/twig" : "*"
+    }
+}
